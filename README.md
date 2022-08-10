@@ -15,7 +15,8 @@
     # 正常下，会让我们来输入 [应用正式名称]、[程序名称]、[域]、[项目名称]，等等这里就简单的设置一下,可默认
 ```
 我这里的配置结果:
-![截图](./src/commissionApp/resources/setting.png)
+<!-- ![截图](./src/commissionApp/resources/setting.png) -->
+<img src="./src/commissionApp/resources/setting.png"  style="zoom: 70%;" />
 
 
 **上述操作成功就会在当前目录创建应用，并 cmd 打印提示`cd commissionApp`、`breifcase dev`**
@@ -61,7 +62,8 @@ briefcase package android
 
 ## 4. 安装测试
 传到手机上之后安装运行，最终界面如下：
-![](./src/commissionApp/resources/show.jpg)
+<!-- ![](./src/commissionApp/resources/show.jpg) -->
+<img src="./src/commissionApp/resources/show.jpg"  style="zoom: 40%;" />
 
 这样，我们就把Python编写的图形程序直接打包为了安卓APP。
 
